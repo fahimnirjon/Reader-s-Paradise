@@ -5,6 +5,7 @@ Live Link>>>> https://readers-paradise.netlify.app/
 
 
 Used tools & Technologies
+
  • React
  • Tailwind
  • Material Tailwind (component library)
