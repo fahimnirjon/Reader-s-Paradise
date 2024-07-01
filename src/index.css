@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* font-family: "Playfair Display", serif; */
+/* font-family: "Work Sans", sans-serif; */
+body {
+  font-family: "Work Sans", sans-serif;
+}
+h1 h2 h3 h4 {
+  font-family: "Playfair Display", serif;
+  color: rgb(19, 19, 19);
+}
+/* custom class  */
+
+.bg_pri {
+  /* Your custom styles here */
+  background-color: #23be0a;
+}
+.bg_sec {
+  /* Your custom styles here */
+  background-color: #59c6d2;
+}
+.bg_third {
+  /* Your custom styles here */
+  background: rgba(19, 19, 19, 0.05);
+}
+
+.text_brand {
+  color: #23be0a;
+}
+.text_pri {
+  color: rgba(19, 19, 19);
+}
+.text_sec {
+  color: rgba(19, 19, 19, 0.8);
+}
+.text_third {
+  color: rgba(19, 19, 19, 0.7);
+}
+/* border: 1px solid rgba(19, 19, 19, 0.3); */
+.testing_p {
+  /* background: #328eff26; */
+}
