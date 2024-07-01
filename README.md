@@ -1,43 +1,19 @@
-# React Project
+Name of This Site >> Readers' Paradise
 
-## Book House App
+Deployed To Netlify
+Live Link>>>> https://readers-paradise.netlify.app/
 
-### installation
 
-```
-npm install
-```
+Used tools & Technologies
+ • React
+ • Tailwind
+ • Material Tailwind (component library)
+ • React router dom
+ • Recharts
+ • React tostify
+ • React tabs
+ • React icons
+ • Hero icons
 
-### running the app
 
-```
-npm run dev
-```
-
-### Deployed Netlify
-
-#### Live link: https://roushan-book-house.netlify.app/
-
-### Used tools & Technologies
-
-- React
-- Tailwind
-- Material Tailwind (component library)
-- React router dom
-- Recharts
-- React tostify
-- React tabs
-- React icons
-- Hero icons
-
-## Hello
-
-### I'm Roushan Sheik
-
-### Let't connect
-
-- [LinkedIn](https://www.linkedin.com/in/roushan-sheik/)
-
-- [Facebook](https://www.facebook.com/mdrowshansheikh008/)
-- [Twitter](https://twitter.com/RoushanSheik)
-- https://github.com/roushan-sheik
+ 
